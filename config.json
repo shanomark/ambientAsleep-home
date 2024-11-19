@@ -8,25 +8,25 @@
     },
     {
       "id":"ca-app-pub-2334640401367012/9262548472",
-      "position": 0,
+      "position": 1,
       "is_show": false,
       "name": "player_native"
     },
     {
       "id":"ca-app-pub-2334640401367012/8031619056",
-      "position": 0,
+      "position": 2,
       "is_show": false,
       "name": "app_open"
     },
     {
       "id":"ca-app-pub-2334640401367012/4237350875",
-      "position": 0,
+      "position": 3,
       "is_show": false,
       "name": "sound_selected_insert"
     },
   ],
   "global_config": {
-    "home_native_button_title": "Play Now",
-    "player_native_button_title": "Play Now",
+    "home_native_button_title": "Apply Now",
+    "player_native_button_title": "Apply Now",
   }
 }
